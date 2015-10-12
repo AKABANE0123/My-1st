@@ -1,0 +1,7 @@
+C:\Users\1323141\Desktop\kadai02\kadai02\bin\Debug\kadai02.exe
+C:\Users\1323141\Desktop\kadai02\kadai02\bin\Debug\kadai02.pdb
+C:\Users\1323141\Desktop\kadai02\kadai02\obj\x86\Debug\kadai02.Form1.resources
+C:\Users\1323141\Desktop\kadai02\kadai02\obj\x86\Debug\kadai02.Properties.Resources.resources
+C:\Users\1323141\Desktop\kadai02\kadai02\obj\x86\Debug\kadai02.csproj.GenerateResource.Cache
+C:\Users\1323141\Desktop\kadai02\kadai02\obj\x86\Debug\kadai02.exe
+C:\Users\1323141\Desktop\kadai02\kadai02\obj\x86\Debug\kadai02.pdb
